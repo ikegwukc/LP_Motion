@@ -33,7 +33,7 @@ public class levels : MonoBehaviour {
 		while(lastBlock.transform.position.x < vars.screenStart + vars.blockSize / 2){
 
 			if(levels.nextGap == 2){
-				if(player.vSpeed != 0 || player.nearBridge || newBridge == true){
+				if(Mathf.Round(player.vSpeed*10000) != 0 || player.nearBridge || newBridge == true){
 					levels.nextGap++;
 				}
 
@@ -81,8 +81,8 @@ public class levels : MonoBehaviour {
 	}
 
 	public static void fixLevels (){
-		if (player.vSpeed == 0 && player.nearBridge == false) {
-			int tempLevel = (int) Mathf.Floor((player.y-(-vars.levelHeight+player.h/2+vars.blockSize/2-levels.y))/vars.levelHeight);
+		if (Mathf.Round(player.vSpeed*10000) == 0 && player.nearBridge == false) {
+			int tempLevel = (int) Mathf.Floor((player.y-(-vars.levelHeight+player.h/2+vars.blockSize/2-levels.y))/vars.levelHeight)+1;
 			if(tempLevel == 2){
 				levels.y -= vars.levelHeight;
 				foreach (var i in GameObject.FindGameObjectsWithTag("Block")) {
