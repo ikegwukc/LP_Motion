@@ -99,11 +99,11 @@ public class player : MonoBehaviour {
 
 			foreach (var i in GameObject.FindGameObjectsWithTag("Block")) {
 				//transform.Translate (new Vector3 (player.hSpeed, player.vSpeed, 0));
-				//i.transform.Translate (new Vector3 (player.hSpeed, 0, 0));//player.vSpeed
+				i.transform.Translate (new Vector3 (player.hSpeed, 0, 0));//player.vSpeed
 			}
 			foreach (var i in GameObject.FindGameObjectsWithTag("Bridge")) {
 				//transform.Translate (new Vector3 (player.hSpeed, player.vSpeed, 0));
-				//i.transform.Translate (new Vector3 (player.hSpeed, 0, 0));//player.vSpeed
+				i.transform.Translate (new Vector3 (player.hSpeed, 0, 0));//player.vSpeed
 			}
 
 			levels.y += vSpeed;
