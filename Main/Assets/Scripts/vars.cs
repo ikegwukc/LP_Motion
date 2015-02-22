@@ -22,4 +22,6 @@ public class vars : MonoBehaviour {
 	public static int health = 20;
 	public static int score = 0;
 
+	public static float bridgeInput = -1;
+	public static float itemInput = -1;
 }

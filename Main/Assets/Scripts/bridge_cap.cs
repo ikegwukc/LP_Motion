@@ -14,7 +14,7 @@ public class bridge_cap : MonoBehaviour {
 	}
 
 	void Update () {
-		if (Input.GetMouseButton (0)) {
+		if (vars.bridgeInput > 0) {
 			if (end) {
 				renderer.material.mainTextureOffset = new Vector2((-bridge.transform.localScale.x)/vars.blockSize+.5F,0);
 				transform.position = new Vector3(anchor.transform.position.x+vars.blockSize/2+vars.gapLength*vars.blockSize,anchor.transform.position.y+bridge.GetComponent<bridge>().raise,0);

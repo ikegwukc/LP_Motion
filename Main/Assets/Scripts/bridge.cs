@@ -28,8 +28,8 @@ public class bridge : MonoBehaviour {
 	void Update () {
 		renderer.material.mainTextureScale = new Vector2(transform.localScale.x/vars.blockSize,renderer.material.mainTextureScale.y);
 		renderer.material.mainTextureOffset = new Vector2(-transform.localScale.x/vars.blockSize,0);
-		if (Input.GetMouseButton (0)) {
-			raise = vars.levelHeight * Mathf.Min (Mathf.Max ((Input.mousePosition.y - Screen.height / 4) / (Screen.height / 2), 0), 1);
+		if (vars.bridgeInput > 0) {
+			raise = vars.levelHeight * vars.bridgeInput;
 
 			transform.rotation = new Quaternion(0,0,0,0);
 			transform.localScale = new Vector3(Mathf.Sqrt( Mathf.Pow(vars.gapLength*vars.blockSize,2) + Mathf.Pow(raise,2)),vars.blockSize,vars.blockSize-.00001F);

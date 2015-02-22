@@ -22,19 +22,10 @@ public class player : MonoBehaviour {
 		h = vars.blockSize;
 		transform.localScale = new Vector3(w/10, 1, h/10);
 		transform.position = new Vector3(x, y, 0);
+		GameObject.Instantiate(Resources.Load("PlayerItem"));
 	}
 	
 	void Update () {
-
-		if (Input.GetMouseButtonDown (1)) {
-			if (Input.GetMouseButton (0) == false){
-				foreach (var i in GameObject.FindGameObjectsWithTag("Enemy")) {
-					if (i.transform.position.x > x) {
-						Destroy (i);
-					}
-				}
-			}
-		}
 
 		vars.secondsPastFrame += Time.deltaTime;
 
@@ -63,7 +54,7 @@ public class player : MonoBehaviour {
 					float goalY = i.GetComponent<bridge>().anchor.transform.position.y+hitY+spaceY;
 
 					if(Mathf.Abs(y-goalY)<vars.blockSize){
-						if(Input.GetMouseButton(0)){
+						if(vars.bridgeInput > 0){
 							if(y<goalY){
 								vSpeed = y-goalY;
 							}
@@ -128,6 +119,7 @@ public class player : MonoBehaviour {
 	}
 
 	public static void hit (){
+
 		if (lastHit > 1) {
 			vars.health--;
 			if(vars.health<0){
