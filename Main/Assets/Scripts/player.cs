@@ -96,6 +96,16 @@ public class player : MonoBehaviour {
 				//transform.Translate (new Vector3 (player.hSpeed, player.vSpeed, 0));
 				i.transform.Translate (new Vector3 (player.hSpeed, 0, 0));//player.vSpeed
 			}
+			foreach (var i in GameObject.FindGameObjectsWithTag("BridgeCap")) {
+				ParticleSystem.Particle[] _particles = new ParticleSystem.Particle[i.particleSystem.particleCount];
+				i.particleSystem.GetParticles(_particles);
+				
+				for (int j = 0; j < _particles.Length; j++){
+					_particles[j].position = new Vector3(_particles[j].position.x+player.hSpeed,_particles[j].position.y,_particles[j].position.z);
+				}
+				
+				i.particleSystem.SetParticles(_particles, i.particleSystem.particleCount);
+			}
 
 			levels.y += vSpeed;
 			foreach (var i in GameObject.FindGameObjectsWithTag("Enemy")) {
@@ -105,6 +115,7 @@ public class player : MonoBehaviour {
 					}
 				}
 			}
+
 			if(player.vSpeed > .25F){
 				hit ();
 			}

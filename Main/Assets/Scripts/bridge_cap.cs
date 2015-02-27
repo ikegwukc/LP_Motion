@@ -10,10 +10,15 @@ public class bridge_cap : MonoBehaviour {
 	public float lastPos = 0;
 
 	void Start () {
+		lastPos = Input.mousePosition.y;
+		particleSystem.emissionRate = 0;
 		transform.localScale = new Vector3 (vars.blockSize,vars.blockSize/2-.0001F,vars.blockSize);
+		transform.position = new Vector3 (vars.screenStart+vars.blockSize,0,0);
 	}
 
 	void Update () {
+
+
 		if (anchor) {
 			if (vars.bridgeInput > 0) {
 				if (end) {
@@ -24,17 +29,26 @@ public class bridge_cap : MonoBehaviour {
 				} else {
 					transform.position = new Vector3 (anchor.transform.position.x + vars.blockSize / 2, anchor.transform.position.y, 0);
 				}
-				if (lastPos != Input.mousePosition.y) {
-					particleSystem.emissionRate = Mathf.Abs(Input.mousePosition.y-lastPos)*10;
+				if (lastPos != Input.mousePosition.y && Mathf.Abs (Input.mousePosition.y-lastPos)<999) {
+					particleSystem.emissionRate = Mathf.Abs(Input.mousePosition.y-lastPos)*5;
 					lastPos = Input.mousePosition.y;
 				} else {
 					particleSystem.emissionRate = 0;
 				}
 			} else {
 				transform.position = new Vector3 (vars.screenStart * 2 + transform.localScale.x, 0, 0);
+				particleSystem.emissionRate = 0;
 			}
 		
 		}
 	}
-	
+
+	//public void AddForceOnParticles(GameObject go){
+		
+
+	//}
+
 }
+
+
+
