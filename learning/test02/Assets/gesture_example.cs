@@ -16,7 +16,7 @@ class gesture_example : MonoBehaviour
 		controller.Config.SetFloat ("Gesture.Swipe.MinVelocity", 750f);
 		controller.Config.Save ();
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
 		Frame frame = controller.Frame ();
