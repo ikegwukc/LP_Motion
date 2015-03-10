@@ -12,6 +12,8 @@ public class player : MonoBehaviour {
 	public static bool onBridge = false;
 	public static bool nearBridge = false;
 	public static int lastHit = 0;
+	public static float FPS;
+	float animationStage;
 	
 	void Start () {
 		hSpeed = -vars.minSpeed;
@@ -36,14 +38,76 @@ public class player : MonoBehaviour {
 		if (vars.secondsPastFrame >= vars.frameRate) {
 			vars.secondsPastFrame -= vars.frameRate;
 
-			hSpeed -= vars.acceleration;
-			if(hSpeed < -vars.maxSpeed){
-				hSpeed = -vars.maxSpeed;
+			if(gui.type==1){
+				hSpeed -= vars.acceleration;
+				if(hSpeed < -vars.maxSpeed){
+					hSpeed = -vars.maxSpeed;
+				}
+
 			}
+
 			vSpeed += vars.gravity;
 			if(vSpeed < -vars.maxJump){
 				vSpeed = -vars.maxJump;
 			}
+
+			animationStage -= hSpeed*2;
+			if((int)animationStage>=5){
+				animationStage -= 5;
+			}
+			renderer.material.mainTexture = Resources.Load ("player"+ (int) animationStage, typeof(Texture2D)) as Texture;
+
+
+			enemy[] aaa  = (enemy[]) FindObjectsOfType (typeof(enemy));
+			for (int i=0;i<aaa.Length;i++) {
+				aaa[i].frameBalance++;
+			}
+			background[] bbb = (background[]) FindObjectsOfType (typeof(background));
+			for (int i=0;i<bbb.Length;i++) {
+				bbb[i].frameBalance++;
+			}
+			vines[] ccc = (vines[]) FindObjectsOfType (typeof(vines));
+			for (int i=0;i<ccc.Length;i++) {
+				ccc[i].frameBalance++;
+			}
+			gui[] ddd = (gui[]) FindObjectsOfType (typeof(gui));
+			for (int i=0;i<ddd.Length;i++) {
+				ddd[i].frameBalance++;
+			}
+			block[] eee = (block[]) FindObjectsOfType (typeof(block));
+			for (int i=0;i<eee.Length;i++) {
+				eee[i].frameBalance++;
+			}
+			bridge[] fff = (bridge[]) FindObjectsOfType (typeof(bridge));
+			for (int i=0;i<fff.Length;i++) {
+				fff[i].frameBalance++;
+			}
+			bridge_cap[] ggg = (bridge_cap[]) FindObjectsOfType (typeof(bridge_cap));
+			for (int i=0;i<ggg.Length;i++) {
+				ggg[i].frameBalance++;
+			}
+			player_projectile[] hhh = (player_projectile[]) FindObjectsOfType (typeof(player_projectile));
+			for (int i=0;i<hhh.Length;i++) {
+				hhh[i].frameBalance++;
+			}
+			player_item[] iii = (player_item[]) FindObjectsOfType (typeof(player_item));
+			for (int i=0;i<iii.Length;i++) {
+				iii[i].frameBalance++;
+			}
+			enemy_projectile[] jjj = (enemy_projectile[]) FindObjectsOfType (typeof(enemy_projectile));
+			for (int i=0;i<jjj.Length;i++) {
+				jjj[i].frameBalance++;
+			}
+			item[] kkk = (item[]) FindObjectsOfType (typeof(item));
+			for (int i=0;i<kkk.Length;i++) {
+				kkk[i].frameBalance++;
+			}
+			dust[] lll = (dust[]) FindObjectsOfType (typeof(dust));
+			for (int i=0;i<lll.Length;i++) {
+				lll[i].frameBalance++;
+			}
+
+			//enemy.frameBalance += 1;
 
 			onBridge = false;
 			nearBridge = false;
@@ -99,12 +163,27 @@ public class player : MonoBehaviour {
 			foreach (var i in GameObject.FindGameObjectsWithTag("BridgeCap")) {
 				ParticleSystem.Particle[] _particles = new ParticleSystem.Particle[i.particleSystem.particleCount];
 				i.particleSystem.GetParticles(_particles);
-				
 				for (int j = 0; j < _particles.Length; j++){
-					_particles[j].position = new Vector3(_particles[j].position.x+player.hSpeed,_particles[j].position.y,_particles[j].position.z);
+					_particles[j].position = new Vector3(_particles[j].position.x+player.hSpeed,_particles[j].position.y+player.vSpeed,_particles[j].position.z);
 				}
-				
 				i.particleSystem.SetParticles(_particles, i.particleSystem.particleCount);
+			}
+			foreach (var i in GameObject.FindGameObjectsWithTag("Dust")) {
+				if(i.GetComponent<dust>().still == false){
+					i.transform.Translate (new Vector3 (player.hSpeed, player.vSpeed, 0));
+				}
+				i.GetComponent<dust>().lifeTime++;
+			}
+						
+			ParticleSystem.Particle[] _particles2 = new ParticleSystem.Particle[player_item.playerMagic.particleSystem.particleCount];
+			player_item.playerMagic.particleSystem.GetParticles(_particles2);
+			for (int j = 0; j < _particles2.Length; j++){
+				_particles2[j].position = new Vector3(_particles2[j].position.x,_particles2[j].position.y+player.vSpeed,_particles2[j].position.z);
+			}
+			player_item.playerMagic.particleSystem.SetParticles(_particles2, player_item.playerMagic.particleSystem.particleCount);
+
+			foreach (var i in GameObject.FindGameObjectsWithTag("Bullet")) {
+				i.transform.Translate(new Vector3(0,player.vSpeed,0));
 			}
 
 			levels.y += vSpeed;
@@ -114,7 +193,17 @@ public class player : MonoBehaviour {
 						hit ();
 					}
 				}
+				if(i.GetComponent<enemy>()){
+					i.GetComponent<enemy>().fireStage++;
+				}
 			}
+
+			foreach (var i in GameObject.FindGameObjectsWithTag("EnemyTame")) {
+				if(i.GetComponent<enemy>()){
+					i.GetComponent<enemy>().fireStage++;
+				}
+			}
+
 
 			if(player.vSpeed > .25F){
 				hit ();
@@ -133,17 +222,19 @@ public class player : MonoBehaviour {
 
 		if (lastHit > 1) {
 			vars.health--;
-			if(vars.health<0){
-				endGame();
+			if(vars.health<=0){
+				vars.health = 0;
+				//endGame();
+				gui.type = 0;
+				gui.species = 0;
+				vars.itemInput = -1;
 			}
 		}
 		lastHit = 0;
 	}
-
+	/*
 	public static void endGame (){
 		//The Game Is Over
-		vars.health = -999;
-		vars.acceleration = 0;
-		hSpeed = 0;
 	}
+	*/
 }

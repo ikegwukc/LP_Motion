@@ -12,7 +12,829 @@ Platform assembly: C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Game Name_Dat
 Loading C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Game Name_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
 Platform assembly: C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Game Name_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Game Name_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.075 seconds
+- Completed reload, in  0.055 seconds
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+Platform assembly: C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Game Name_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Game Name_Data\Managed\System.dll (this message is harmless)
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:51)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:51)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:51)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:51)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:51)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+can place
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:206)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 206)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:51)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:51)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+
+nope
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+Level:blockAtPoint(Single, Single, Single) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:212)
+Level:update(Int32) (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:176)
+levels:addBlocks() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\levels.cs:46)
+player:Update() (at C:\Users\Andrew\Documents\GitHub\LP_Motion\Main\Assets\Scripts\player.cs:144)
+ 
+(Filename: C:/Users/Andrew/Documents/GitHub/LP_Motion/Main/Assets/Scripts/levels.cs Line: 212)
+

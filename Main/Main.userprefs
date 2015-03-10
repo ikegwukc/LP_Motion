@@ -1,17 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\bridge_cap.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\gui.cs">
     <Files>
-      <File FileName="Assets\Scripts\player_projectile.cs" Line="4" Column="22" />
-      <File FileName="Assets\Scripts\vars.cs" Line="28" Column="1" />
-      <File FileName="Assets\Scripts\player.cs" Line="100" Column="1" />
-      <File FileName="Assets\Scripts\levels.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\bridge.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\bridge_cap.cs" Line="13" Column="35" />
-      <File FileName="Assets\Scripts\gui.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\enemy.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\block.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\player_item.cs" Line="52" Column="2" />
+      <File FileName="Assets\Scripts\gui.cs" Line="320" Column="44" />
+      <File FileName="Assets\Scripts\player.cs" Line="27" Column="56" />
+      <File FileName="Assets\Scripts\block.cs" Line="25" Column="4" />
+      <File FileName="Assets\Scripts\vines.cs" Line="42" Column="5" />
+      <File FileName="Assets\Scripts\levels.cs" Line="22" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
